@@ -1,0 +1,44 @@
+[
+    {
+        "id":"01",
+        "name":"Child Echocardiography",
+        "image":"https://i.ibb.co/8mq7NSK/1.jpg",
+        "description":"Women’s healthcare has always been a major arena of every prominent medical organization or healthcare institute healthcare institute..."
+
+    },
+    {
+        "id":"02",
+        "name":"ECG / ETT",
+        "image":"https://i.ibb.co/jGx4sWc/2.jpg",
+        "description":"Dialysis: The process of removing waste products and excess fluid from the body. Dialysis is necessary when the kidneys are not..."
+
+    },
+    {
+        "id":"03",
+        "name":"24 Hour Ambulance service",
+        "image":"https://i.ibb.co/N3MZCqD/3.jpg",
+        "description":"We   provide  emergency   ambulance   service  to   people  with  acute   illness  and  pregnancy  in   Dhaka,  as  well  as Chattogram ..."
+
+    },
+    {
+        "id":"04",
+        "name":"Emergency Department",
+        "image":"https://i.ibb.co/XSvWFJs/4.jpg",
+        "description":"Accident & Emergency Centre, which deals with all kinds of emergencies under one roof 24 hours a day, 7 days a week. The Centre..."
+
+    },
+    {
+        "id":"05",
+        "name":"Operations Theater (OT)",
+        "image":"https://i.ibb.co/M7STdr0/5.jpg",
+        "description":"We cover a comprehensive range of surgical specialities including Bariatric surgery, Plastic surgery, Vascular surgery ..."
+
+    },
+    {
+        "id":"06",
+        "name":"Dental unit",
+        "image":"https://i.ibb.co/zPBV5sR/6.jpg",
+        "description":"The professionals and expertise are committed to meet all your dental needs in an environment of serene privacy, comfort ..."
+
+    }
+]

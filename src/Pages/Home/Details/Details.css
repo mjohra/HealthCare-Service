@@ -1,0 +1,55 @@
+.cover {
+    width: 100%;
+    height: 55vmin;
+    background: url("../../../images/bg.jpg");
+    background-position: 14rem 80rem;
+    background-size: 100%;
+    position: relative;
+  }
+  
+  .cover .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+  }
+  
+  .cover .content {
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    padding-top: 19vmin;
+  }
+  
+  .cover .content > h1 {
+    font-size: 6vmin;
+    color: whitesmoke;
+  }
+  
+  .cover .content > p {
+    font-size: 2vmin;
+    color: #e5e5e5;
+  }
+  
+  .numbers .rect {
+    position: relative;
+    z-index: 1;
+    background: white;
+    width: 17rem;
+    height: 12rem;
+    padding-top: 3.5vmin;
+    margin: 1rem;
+    border-radius: 0.5em;
+    box-shadow: 1px 2px 50px 0px rgb(83, 202, 202);
+  }
+  
+  .numbers {
+    margin-top: -15vmin;
+  }
+  
+  .numbers .rect h1 {
+    font-size: 5rem;
+    color: rgb(7, 221, 221);
+  }

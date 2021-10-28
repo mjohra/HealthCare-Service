@@ -1,0 +1,61 @@
+[
+    {
+       
+        "id":1,
+        "name":"DR. ANUP KUMAR",
+        "image":"https://i.ibb.co/6yyK6QR/doctors.jpg",
+        "specialized":"MBBS (DHAKA), MPH, FRSH (UK) PH. D (SURGERY) SURGERY SPECIALIST & SURGEON",
+        "Designation":"Doctor",
+        "Department":"Surgery"
+    },
+    
+    {
+       
+        "id":2,
+        "name":"DR. KAZI NASID NAZNIN",
+        "image":"https://i.ibb.co/TTDkzxp/doctors-3.jpg",
+        "specialized":"MBBS, FCPS (SURGERY), MS (COLORECTAL SURGERY), GENERAL SURGEON.",
+        "Designation":"Assistant Professor",
+        "Department":"Surgery"
+    },
+    
+    {
+       
+        "id":3,
+        "name":"DR. M. A. HALIM KHAN",
+        "image":"https://i.ibb.co/ZdB8Pqs/doctors-1.jpg",
+        "specialized":"MBBS (DHAKA), BCS (HEALTH), MD-ENDOCRINOLOGY",
+        "Designation":"Doctor",
+        "Department":"Endocrinology"
+    },
+    
+    {
+       
+        "id":4,
+        "name":"DR. SONIA AKTER",
+        "image":"https://i.ibb.co/TTDkzxp/doctors-3.jpg",
+        "specialized":"MBBS. FCPS (SURGERY), GENERAL SURGEON",
+        "Designation":"Assistant Professor",
+        "Department":"Surgery"
+    },
+    {
+       
+        "id":5,
+        "name":"DR NAJMUS SAKIB",
+        "image":"https://i.ibb.co/KK1LKs9/doctors-2.jpg",
+        "specialized":"MBBS, MS (ORTHO-SURGERY) GOLD MEDLIST SRS SCHOLAR (USA)",
+        "Designation":"Associate Professor",
+        "Department":"Orthopedic"
+    },
+    
+    {
+       
+        "id":6,
+        "name":"DR. DEBASISH DEBENATH",
+        "image":"https://i.ibb.co/6yyK6QR/doctors.jpg",
+        "specialized":"MBBS (DHAKA), D-CARD (BSMMU), CARDIOLOGIST & DIABETOLOGIST",
+        "Designation":"Assistant Professor",
+        "Department":"Cardiologist"
+    }
+    
+]

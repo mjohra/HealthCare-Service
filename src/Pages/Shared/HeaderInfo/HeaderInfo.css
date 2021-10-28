@@ -1,0 +1,19 @@
+.first-part{
+    text-align: center;
+}
+.second-part{
+    display:flex;
+    justify-content:center;
+}
+.third-part{
+    display:flex;
+    justify-content:center;
+}
+.fourth-part{
+    display:flex;
+    justify-content:center;
+}
+.icon{
+    color:rgb(7, 221, 221);
+}
+

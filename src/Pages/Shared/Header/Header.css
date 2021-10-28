@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
+.nav-detail a{
+    font-size:20px;
+    font-weight: bold;
+    color:black;
+    font-family: 'IM Fell English SC', serif;
+}
+
+.title{
+    font-family: 'IM Fell English SC', serif;
+    font-weight: 700;
+}
